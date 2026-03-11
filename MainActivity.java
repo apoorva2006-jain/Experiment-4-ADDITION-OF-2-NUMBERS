@@ -1,4 +1,4 @@
-package com.example.myapplicationexp4;
+package com.example.exp4addition;
 
 import android.os.Bundle;
 import android.view.View;
